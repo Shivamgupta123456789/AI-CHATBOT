@@ -1,0 +1,6 @@
+{
+  "name": "Student AI Chatbot & Study Workspace",
+  "description": "An advanced AI-powered educational chatbot and workspace to assist students in mastering subjects, generating clean summaries, planning sessions, and taking custom interactive quizzes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
